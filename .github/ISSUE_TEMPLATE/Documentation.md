@@ -1,6 +1,10 @@
 ---
-name: 📚 Documentation
+name: "\U0001F4DA Documentation"
 about: Have any new documentation about how parcel works?
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!---

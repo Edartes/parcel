@@ -1,6 +1,10 @@
 ---
-name: ❔ Question
+name: "❔ Question"
 about: Have any questions regarding how parcel works?
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!---
